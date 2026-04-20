@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+out/
+*.o
+*.so
+*.a
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor
+.vscode/
+.idea/
